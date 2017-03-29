@@ -1,1 +1,1 @@
-console.log('First Heroku Project');
+return 'First Heroku Project';
